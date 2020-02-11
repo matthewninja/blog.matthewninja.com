@@ -27,6 +27,9 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
   
   twitter = "https://twitter.com/matthewninja2"
 
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+googleAnalytics = "UA-158207054-1"
+
 # Menu links along the sidebar navigation.
 [[menu.main]]
   identifier = "about"
