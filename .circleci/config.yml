@@ -1,4 +1,4 @@
-version: 2.1
+version: 2
 jobs:
   build:
     docker:
@@ -39,7 +39,7 @@ jobs:
           command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
               aws s3 sync $HUGO_BUILD_DIR \
-              s3://your-bucket-name/your-subfolder --delete
+              s3://blog.matthewninja.com/ --delete
             else
               echo "Not master branch, dry run only"
             fi
