@@ -1,7 +1,7 @@
 ---
 title: "Instagram AR Effects & PharoJS Express"
 date: 2020-02-10T23:23:40-05:00
-draft: true
+draft: false
 ---
 
 As graduation is just around the corner, I find myself filling time with new projects and continuous work on my Thesis project. Here's what I made today. 
@@ -9,7 +9,7 @@ As graduation is just around the corner, I find myself filling time with new pro
 ## My First Instagram Effect
 I've seen a ton of custom story effects used by those I follow on Instagram. It seems like fun new effects are trendy right now. I started looking into IG effects about a week ago. I noticed that every time somebody uses a custom effect, it links to the creators profile. Ripe opportunity for organic growth? I think so.
 
-I downloaded Spark AR, watched a few tutorials (shout out [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw) on youtube), and fter a suggestion by [itsjessicawynne](https://www.instagram.com/itsjessicawynne/) and a few hours of work, I made the effect "What plant are you?" It's pretty simple–it uses face detection, places a plane over your head, and randomly selects a plant!
+I downloaded Spark AR, watched a few tutorials (shout out [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw) on youtube), and after a suggestion by [itsjessicawynne](https://www.instagram.com/itsjessicawynne/) and a few hours of work, I made the effect "What plant are you?" It's pretty simple–it uses face detection, places a plane over your head, and randomly selects a plant!
 
 ![Example image](/what-plant.gif)
 
