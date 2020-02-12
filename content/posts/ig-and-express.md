@@ -11,7 +11,7 @@ I've seen a ton of custom story effects used by those I follow on Instagram. It 
 
 I downloaded Spark AR, watched a few tutorials (shout out [Catalyst](https://www.youtube.com/channel/UC3zmATtNhDuYOketH1zF5sw) on youtube), and after a suggestion by [itsjessicawynne](https://www.instagram.com/itsjessicawynne/) and a few hours of work, I made the effect "What plant are you?" It's pretty simple–it uses face detection, places a plane over your head, and randomly selects a plant!
 
-![Example image](/what-plant.gif)
+![What Plant Are You?](/what-plant.gif)
 
 It's currently being reviewed by the Spark AR team. I'll update this post with a link when it's live!
 
