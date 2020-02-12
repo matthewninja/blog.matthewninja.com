@@ -1,7 +1,7 @@
 ---
 title: "Joining VendorPM & Another IG Effect"
 date: 2020-02-11T20:44:10-05:00
-draft: true
+draft: false
 ---
 
 Today, I joined the awesome team at VendorPM to help their development. Also, because yesterday's IG effect so fun, I made another one today!
