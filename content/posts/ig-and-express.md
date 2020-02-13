@@ -1,6 +1,6 @@
 ---
 title: "Instagram AR Effects & PharoJS Express"
-date: 2020-02-10T23:23:40-05:00
+date: 2020-02-10
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Joining VendorPM & More IG Effects"
-date: 2020-02-11T20:44:10-05:00
+date: 2020-02-11
 draft: false
 ---
 
