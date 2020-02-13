@@ -1,13 +1,15 @@
 ---
 title: "matthewninja today: Polyfills, Philosophy, & Getsummit"
-date: 2020-02-13T12:46:16-05:00
+date: 2020-02-13
 draft: false
 ---
 
 ## PharoJS Slackbot Polyfill Dependencies 🤖
 Yesterday, I ended development on my Slack App with a completed skeleton that handles post requests to the transpiled Express App. But, I hadn't yet dealt with dependencies needed to parse requests and make API calls to other services. 
 
-The two needed node modules are bodyparse and request. I added polyfills for both. I also re-factored PjExpressApp. It makes more sense now.
+The two needed node modules are bodyparse and request. I added polyfills for both. I also re-factored PjExpressApp. It makes more sense now. The first action added: echo a message when a user @'s the bot.
+
+![pjs-slackbot](/pjs-slackbot.gif)
 
 The Slack app works perfectly! It gets a request and echo's it back to the channel received in. Check it out here: [PharoJS-Slackbot](https://github.com/matthewninja/PharoJS-Slackbot)
 
