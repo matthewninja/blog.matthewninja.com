@@ -18,6 +18,7 @@ Second, U of T offers a course-based M.Eng in Computer Engineering. The courses 
 I've known for a while that I want to start working when I finish my B.Sc in April. I have an incredible job lined up and I'm uber excited to start my career. Amazingly, my future employer will even pay for my tuition (pending approval)! Because Ryerson's M.Sc is only offered in the full-time format, I hadn't considered Ryerson's graduate program to be a possibility. However, I learned something amazing last week! Essentially, if I were enrolled in Ryerson's full-time M.Sc, nobody would ever ask me if I was working a job. I can complete the program at my own pace as if I were a part-time student. Amazing! 🙌
 
 So, Ryerson is now my top choice. It was an easy decision given all the benefits of this path. 
+
 * I would get to remain at Ryerson, a school that I've grown very fond of over the course of my undergraduate degree 🏫
 * I'll be able to remain under the supervision of my current Thesis advisor, [Dr. David Mason](https://twitter.com/dmasonrose) 👌
 * I can complete it on an extended timeline while holding a full-time job 💼
