@@ -1,5 +1,5 @@
 ---
-title: "Today in code: Slack Bot, Computer Vision, IG Effects, & Grad School"
+title: "matthewninja today: Slack Bot & Grad School"
 date: 2020-02-12
 draft: false
 ---

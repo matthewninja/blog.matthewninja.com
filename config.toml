@@ -12,7 +12,7 @@ googleAnalytics = "UA-158291064-1"
   name = "matthewninja"
 
 [params]
-  math = true
+  # math = true
   description = "Follow my journey..."
   # Main
   email = "mailto:matthew.ham@ryerson.ca"
