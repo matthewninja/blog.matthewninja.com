@@ -34,6 +34,10 @@ The cultural differences argument goes like so:
 
 Rachels points out that this is not a sound argument because it is not valid. Indeed, the conclusion cannot be logically deduced from the premises. This is a non-deductive argument, and a better conclusion would be something along the lines of *It is likely that X is not objectively right nor objectively wrong.*
 
+**A word from [Dr. Mason](https://twitter.com/dmasonrose)**
+
+> *More accurate conclusion would be that “the Greek and Callatian belief systems cannot both be consistent with objective reality. Therefore one of them is objectively wrong”*
+
 Some of the major claims made by the Cultural Relativism argument are:
 
 * Different societies have different moral codes.
