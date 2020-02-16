@@ -1,6 +1,6 @@
 ---
-title: "matthewninja today: Private Blog, Philosophy, Computer Vision, & VendorPM Onboarding"
-date: 2020-02-14-passwords-vendorpm
+title: "matthewninja today: Private Blog & VendorPM Onboarding"
+date: 2020-02-14
 draft: false
 ---
 
