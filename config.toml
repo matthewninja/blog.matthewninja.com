@@ -13,11 +13,11 @@ googleAnalytics = "UA-158291064-1"
 
 [params]
   # math = true
-  description = "Follow my journey..."
+  description = "Welcome to my life..."
   # Main
-  email = "mailto:matthew.ham@ryerson.ca"
+  email = "mailto:arcticlaboratories@gmail.com"
   # youtube = "#"
-  instagram = "https://www.instagram.com/matt.ham/"
+  # instagram = "https://www.instagram.com/matt.ham/"
   linkedin = "https://www.linkedin.com/in/matthewninja/"
 
   # Writing
