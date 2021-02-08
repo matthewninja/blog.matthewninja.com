@@ -4,6 +4,8 @@ date: 2021-02-07T23:23:30-05:00
 draft: false
 ---
 
+This is a YouTube video! Watch it here: https://www.youtube.com/watch?v=awih2WzkceU
+
 You have a great idea for a piece of software. Maybe it's an amazing new app idea. It could be some tool that'll make your business more productive and helps your team. It could even be the core technology that your business is based around. How do you get your software built?
 
 Here are three approaches to getting software developers on your team, broken down into three categories based on your budget and the nature of your project.
